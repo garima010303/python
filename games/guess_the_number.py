@@ -15,3 +15,4 @@ while(user_number != rn):
     guesses+= 1
 
 print(f"You guessed the correct number in {guesses} guesses")
+print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!GAME ENDS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
